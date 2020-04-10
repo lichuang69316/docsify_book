@@ -4,4 +4,4 @@
   * [CentOS7安装k8s教程](zh-cn/CentOS7安装k8s教程.md)
   * [kubernetes新增删除node节点](zh-cn/kubernetes新增删除node节点.md)
 * ELK学习
-  * [kubernetes新增删除node节点](zh-cn/kubernetes新增删除node节点.md)
+  * [ELK安装](zh-cn/ELK的安装.md)
