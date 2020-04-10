@@ -1,4 +1,5 @@
 # MySQL错误处理
+---
 ## 一、表崩溃
 ![image.png](https://i.loli.net/2020/04/10/S1RhJQqXkOgVeu2.png)
 ## 解决方法：
