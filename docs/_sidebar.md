@@ -3,5 +3,7 @@
 * kubernetes
   * [CentOS7安装k8s教程](zh-cn/centos7安装k8s教程.md)
   * [kubernetes新增删除node节点](zh-cn/kubernetes新增删除node节点.md)
-* ELK学习
+* ELK
   * [ELK安装](zh-cn/elk的安装.md)
+* MySQL
+  * [MySQL错误处理](zh-cn/mysql错误处理.md)
